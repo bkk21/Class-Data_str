@@ -1,1 +1,3 @@
-# Class-Data_str
+2022년도 Data_str 실습 자료
+
+- 연결 리스트 등
